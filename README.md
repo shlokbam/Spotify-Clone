@@ -28,7 +28,8 @@ The Spotify Web Player Clone is a project that replicates the appearance of the 
 
 ## Preview
 
-![Spotify Web Player Clone Preview](preview.png)
+![Spotify Web Player Clone Preview](1.png)
+![Spotify Web Player Clone Preview](2.png)
 
 ## Contributors
 
