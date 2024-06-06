@@ -31,10 +31,6 @@ The Spotify Web Player Clone is a project that replicates the appearance of the 
 ![Spotify Web Player Clone Preview](./assets/1.png)
 ![Spotify Web Player Clone Preview](./assets/2.png)
 
-## Contributors
-
-- [Your Name](https://github.com/your_username)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
